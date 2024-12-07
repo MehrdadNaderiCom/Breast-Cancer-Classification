@@ -102,6 +102,6 @@ This project aims to classify breast tumors as benign or malignant using supervi
 For questions, suggestions, or collaboration opportunities, please feel free to reach out:
 
 **Name:** Mehrdad Naderi  
-**Email:** [mehrdadnaderi@example.com](mail@mehrdadnaderi.com)  
+**Email:** [mail@mehrdadnaderi.com](mail@mehrdadnaderi.com)  
 **GitHub Profile:** [MehrdadNaderi](https://github.com/MehrdadNaderi)  
 **LinkedIn Profile:** [Mehrdad Naderi](https://www.linkedin.com/in/mehrdad-naderi/)
