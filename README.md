@@ -103,5 +103,5 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 **Name:** Mehrdad Naderi  
 **Email:** [mail@mehrdadnaderi.com](mail@mehrdadnaderi.com)  
-**GitHub Profile:** [MehrdadNaderi](https://github.com/MehrdadNaderi)  
+**GitHub Profile:** [MehrdadNaderiCom](https://github.com/MehrdadNaderiCom/)  
 **LinkedIn Profile:** [Mehrdad Naderi](https://www.linkedin.com/in/mehrdad-naderi/)
